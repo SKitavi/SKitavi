@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on Data Projects using Python, SQL and Jupyter
+## 🌱 I’m currently learning everything data science and AI
+## 👯 I’m looking to collaborate on projects that address real-world challenges in any field
+
 <!--
 **SKitavi/SKitavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
