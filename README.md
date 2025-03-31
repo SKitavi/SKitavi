@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System)
 
-- 🌱 I’m currently learning **Machine Learning and smart contract development.**
+- 🌱 I’m currently learning **machine learning and smart contract development.**
 
 - 👯 I’m looking to collaborate on **AI/Web 3 projects**
 
-- 📝 I regularly give updates on LinkedIn [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
+- 📝 I regularly give updates on LinkedIn: [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
 
 - 💬 Ask me about **python and data science**
 
-- 📫 How to reach me **sharonkmwikali@gmail.com**
+- 📫 How to reach me: **sharonkmwikali@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing](https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing)
+- 📄 Know about my experiences (Resume): [https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing](https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
