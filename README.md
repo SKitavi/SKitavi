@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: **sharonkmwikali@gmail.com**
 
-- 📄 Know about my experiences (Resume): [https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing](https://docs.google.com/document/d/1_jhHoCqJzgeDxcIDPiUcR16tDHIse7CEFc8pK3Br74o/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharonkitavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharonkitavii" height="30" width="40" /></a>
