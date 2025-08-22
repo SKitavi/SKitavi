@@ -25,7 +25,7 @@
 <p>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SKitavi&layout=compact&theme=radical&cache_seconds=3600&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SKitavi&layout=compact&theme=radical&cache_seconds=3600&langs_count=10&exclude_repo=Smarthive-ai"
     alt="SKitavi's top languages" 
   />
 </p>
