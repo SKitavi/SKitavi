@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System)
 
-- 🌱 I’m currently learning **machine learning and smart contract development.**
+- 🌱 I’m currently learning **machine learning and AI.**
 
 - 👯 I’m looking to collaborate on **AI/Web 3 projects**
 
