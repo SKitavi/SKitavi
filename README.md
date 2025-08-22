@@ -25,12 +25,12 @@
 <p>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SKitavi&layout=compact&theme=radical&cache_seconds=3600&langs_count=10&exclude_repo=Smarthive-ai"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SKitavi&layout=compact&theme=radical&cache_seconds=3600&hide=Jupyter%20Notebook"
     alt="SKitavi's top languages" 
   />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skitavi&" alt="skitavi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skitavi&layout=compact&theme=radical&cache_seconds=3600" alt="skitavi" /></p>
 
 
 
