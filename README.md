@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning and AI.**
 
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on **AI projects.**
 
 - 📝 I regularly give updates on LinkedIn: [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
 
