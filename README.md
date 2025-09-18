@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharon Kitavi.</h1>
+<h1 align="center">Hi, I'm Sharon Kitavi.</h1>
 <h3 align="center">A passionate developer/data scientist from Kenya</h3>
 
 - 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System)
