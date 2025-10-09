@@ -9,8 +9,6 @@
 
 - 📝 I regularly give updates on LinkedIn: [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
 
-- 💬 Ask me about **python and data science**
-
 - 📫 How to reach me: **sharonkmwikali@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
