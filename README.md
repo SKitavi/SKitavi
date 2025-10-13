@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sharon.</h1>
 <h3 align="center">A passionate developer/data scientist from Kenya.</h3>
 
-- 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System)
+- 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System) and [Kanda](https://github.com/Talent-Index/KANDA-scarfold)
 
 - 🌱 I’m currently learning **machine learning and AI.**
 
