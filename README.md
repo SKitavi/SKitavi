@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System) and [Kanda](https://github.com/Talent-Index/KANDA-scarfold)
 
-- 🌱 I’m currently learning **machine learning and AI.**
-
 - 👯 I’m looking to collaborate on **AI and Web3 projects.**
 
 - 📝 I regularly give updates on LinkedIn: [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
