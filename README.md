@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Sharon.</h1>
-<h3 align="center">A passionate developer/data scientist from Kenya.</h3>
-
 - 🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System) and [Kanda](https://github.com/Talent-Index/KANDA-scarfold)
 
-- 👯 I’m looking to collaborate on **AI and Web3 projects.**
+- 👯 Looking to collaborate on **AI and Web3 projects.**
 
-- 📝 I regularly give updates on LinkedIn: [https://www.linkedin.com/in/sharonkitavi/](https://www.linkedin.com/in/sharonkitavi/)
-
-- 📫 How to reach me: **sharonkmwikali@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
