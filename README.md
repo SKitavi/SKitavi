@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Avacertify](https://github.com/SKitavi/Certificate-Issuance-System) and [Kanda](https://github.com/Talent-Index/KANDA-scarfold)
+🔭 I’m currently working on [Avacertify v2](https://github.com/SKitavi/Certificate-Issuance-System) and [Kanda](https://github.com/Talent-Index/KANDA-scarfold)
 
 👯 Looking to collaborate on **AI and Web3 projects.**
 
